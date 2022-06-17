@@ -6,7 +6,7 @@
 I created the password generator through JavaScript.
 
 ## Screenshot
-![Screenshot of my Website]("/images/PasswordGenerator.png")
+![Screenshot of my Website](/images/PasswordGenerator.png)
 
 
 
