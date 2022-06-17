@@ -3,7 +3,7 @@
 [live link](https://ivetteramos.github.io/JavaScriptPassword-/)
 
 ## Description
-I created the password generator through JavaScript.
+I created the password generator through JsavaScript.
 
 ## Screenshot
 ![Screenshot of my Website](/images/PasswordGenerator.png)
