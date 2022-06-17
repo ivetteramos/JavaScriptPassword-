@@ -12,7 +12,6 @@ function generatePassword() {
 
   passwordLength = parseInt(passwordLength)
 
-  console.log(typeof (passwordLength))
   if (typeof (passwordLength) !== "number") {
     alert("Password needs to be a number")
     return
@@ -46,7 +45,6 @@ function generatePassword() {
   }
 
   for (let i = 0; i < passwordLength; i++) {
-
     var indexChar = Math.floor(Math.random() * potential.length)
     var selectedChar = potential[indexChar]
     password += selectedChar
